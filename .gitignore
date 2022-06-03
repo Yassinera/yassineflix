@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+yassine-flix/node_modules
+yassine-flix/.firebase
+yassine-flix/.pnp
+yassine-flix/.pnp.js
+
+# testing
+yassine-flix/coverage
+
+# production
+yassine-flix/build
+
+# misc
+yassine-flix/.DS_Store
+yassine-flix/.env.local
+yassine-flix/.env.development.local
+yassine-flix/.env.test.local
+yassine-flix/.env.production.local
+
+yassine-flix/npm-debug.log*
+yassine-flix/yarn-debug.log*
+yassine-flix/yarn-error.log*
+
+yassine-flix/.firebaserc
+yassine-flix/firebase.json
